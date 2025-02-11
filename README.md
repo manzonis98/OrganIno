@@ -26,12 +26,3 @@
 - **Pull-down resistors (if needed)**  
 - **Wiring and MIDI or USB connectors**  
 
----
-
-## Installation  
-
-**Clone the repository**  
-```sh
-git clone https://github.com/your-username/OrganIno.git
-cd OrganIno
-```
